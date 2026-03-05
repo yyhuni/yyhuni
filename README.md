@@ -40,17 +40,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=radical&hide_border=false">
     <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=radical&hide_border=true">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhuni&layout=compact&theme=radical&hide_border=true&bg_color=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhuni&layout=compact&theme=radical&hide_border=false">
-    <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhuni&layout=compact&theme=radical&hide_border=true">
-  </picture>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yyhuni&theme=radical&hide_border=true&background=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yyhuni&theme=radical&hide_border=false">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yyhuni&theme=radical&hide_border=true">
-  </picture>
 </div>
 
 ### [!] TOP_TARGETS_ACQUIRED
