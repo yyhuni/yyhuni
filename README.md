@@ -1,25 +1,35 @@
 <div align="center">
-  <!-- 动态终端打字效果，颜色为极客绿 -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=27F11D&center=true&vCenter=true&width=600&height=50&lines=Security+Researcher;Automation+Builder;Web+指纹识别+%7C+资产测绘工作流+%7C+自动化安全工程" alt="Typing SVG" />
+
+# ░Y░Y░H░U░N░I░
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=50&lines=SYSTEM+BREACHED...;ACCESS+GRANTED.;Security+Researcher;Automation+Builder" alt="Typing SVG" />
+
+<a href="https://github.com/yyhuni">
+  <!-- 赛博朋克风奖杯墙 -->
+  <img src="https://github-profile-trophy.vercel.app/?username=yyhuni&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="yyhuni trophies" />
+</a>
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=yyhuni&label=PROFILE+SCANS&color=00FFFF&style=for-the-badge" alt="Profile views" />
 </div>
 
-## 📖 `$ cat profile.txt`
+## 🖧 `$ sys.info`
 
-> **我是一个偏工程化的安全研究者，专注把安全能力做成可复用工具。**
+> **[ CLASSIFIED ] 致力于把安全能力锻造成锋利、可复用的自动化武器。**
 
-**🚩 [ flagship ]**
+**[ WEAPONS ]**
 
-- [**xingfinger**](https://github.com/yyhuni/xingfinger) -> 高性能 Web 指纹识别工具
+- [**xingfinger**](https://github.com/yyhuni/xingfinger) -> 高性能 Web 指纹聚合识别引擎
 
-**💡 [ principles ]**
+**[ DIRECTIVES ]**
 
-- `> 先可用，再优雅`
-- `> 先自动化，再手工化`
-- `> 先结果，再形式`
+- `> ERROR 404: MANUAL_WORK_NOT_FOUND`
+- `> 先可用，再优雅` / `> 先自动化，再手工化` / `> 先结果，再形式`
 
-## 🛠 `$ ls tech-stack/`
+## ⚙️ `$ load modules`
 
 <p align="left">
+  <!-- 高对比霓虹色技术栈 -->
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
@@ -29,13 +39,15 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-## 📊 `$ status --now`
+## 📊 `$ wss://gh.api/telemetry`
 
-- 🎯 深化 **xingfinger** 的规则覆盖与匹配精度
-- 🚀 优化扫描性能与结果可读性
-- 📦 沉淀可复用的安全自动化工程实践
+<!-- Radical 霓虹发光主题 -->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhuni&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+</div>
 
-## 🏆 `$ top-repos --sort stars --owner yyhuni`
+## 🏆 `$ top-repos --sort stars`
 
 <!-- TOP_REPOS_START -->
 ### Top 6 by Stars
@@ -50,30 +62,20 @@
 | [lunafox-sse-push](https://github.com/yyhuni/lunafox-sse-push) | 0 | 0 | 2026-02-05 | - |
 <!-- TOP_REPOS_END -->
 
-## 📈 `$ gh api user/stats`
+## � `$ exec snake.exe`
 
-<div align="left">
-  <!-- GitHub 统计模块：使用 tokyonight 暗黑主题保持极客感 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhuni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
-</div>
-
-## 🐍 `$ curl -s https://github.com/yyhuni/contribution-snake`
-
-<!-- 贪吃蛇动画：根据 GitHub 贡献图自动生成 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yyhuni/yyhuni/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yyhuni/yyhuni/output/github-contribution-grid-snake.svg">
-  <!-- 默认备用显示 -->
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yyhuni/yyhuni/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 ## 🔗 `$ links`
 
 <p align="left">
-  <a href="https://github.com/yyhuni"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/yyhuni/xingfinger"><img src="https://img.shields.io/badge/xingfinger-27F11D?style=for-the-badge&logo=shield&logoColor=white" /></a>
-  <a href="https://github.com/yyhuni/xingfinger/issues"><img src="https://img.shields.io/badge/Issues-E34F26?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/yyhuni"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FF00FF" /></a>
+  <a href="https://github.com/yyhuni/xingfinger"><img src="https://img.shields.io/badge/xingfinger-00FFFF?style=for-the-badge&logo=shield&logoColor=111111" /></a>
+  <a href="https://github.com/yyhuni/xingfinger/issues"><img src="https://img.shields.io/badge/Issues-FF0055?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
