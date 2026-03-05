@@ -44,6 +44,8 @@
 
 ### [!] TOP_TARGETS_ACQUIRED
 <!-- TOP_REPOS_START -->
+### Top 6 by Stars
+
 | Repository | Stars | Forks | Updated | Description |
 | --- | ---: | ---: | --- | --- |
 | [xingrin](https://github.com/yyhuni/xingrin) | 456 | 64 | 2026-03-04 | src资产管理漏洞扫描平台，子域名爆破，端口扫描，站点发现，目录扫描，爬虫，漏洞扫描 |
