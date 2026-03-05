@@ -3,7 +3,7 @@ const assert = require("node:assert/strict");
 
 const { buildTopReposSection, replaceTopReposSection } = require("./update-top-repos");
 
-test("buildTopReposSection 按 star 降序并忽略 fork", () => {
+test("buildTopReposSection 按 star 降序、忽略 fork，标题为 Top Stars", () => {
   const repos = [
     {
       name: "low",
@@ -36,11 +36,39 @@ test("buildTopReposSection 按 star 降序并忽略 fork", () => {
 
   const section = buildTopReposSection(repos, { username: "yyhuni", topN: 2 });
 
-  assert.match(section, /### Top 2 by Stars/);
+  assert.match(section, /### Top Stars/);
   assert.match(section, /high/);
   assert.match(section, /low/);
   assert.doesNotMatch(section, /forked/);
   assert.ok(section.indexOf("high") < section.indexOf("low"));
+});
+
+test("buildTopReposSection 过滤 star 为 0 的仓库", () => {
+  const repos = [
+    {
+      name: "zero-star",
+      html_url: "https://github.com/yyhuni/zero-star",
+      description: "zero",
+      stargazers_count: 0,
+      forks_count: 0,
+      fork: false,
+      updated_at: "2026-03-05T00:00:00Z",
+    },
+    {
+      name: "has-star",
+      html_url: "https://github.com/yyhuni/has-star",
+      description: "one",
+      stargazers_count: 1,
+      forks_count: 0,
+      fork: false,
+      updated_at: "2026-03-05T00:00:00Z",
+    },
+  ];
+
+  const section = buildTopReposSection(repos, { username: "yyhuni", topN: 6 });
+
+  assert.match(section, /has-star/);
+  assert.doesNotMatch(section, /zero-star/);
 });
 
 test("replaceTopReposSection 只替换标记区间", () => {

@@ -30,6 +30,7 @@ function buildTopReposSection(repos, options = {}) {
     .filter((repo) => !repo.fork && !repo.archived && !repo.private)
     .filter((repo) => String(repo.name).toLowerCase() !== String(username).toLowerCase())
     .filter((repo) => !useIncludeRepos || includeRepos.has(String(repo.name).toLowerCase()))
+    .filter((repo) => Number(repo.stargazers_count || 0) > 0)
     .sort((a, b) => {
       if (b.stargazers_count !== a.stargazers_count) {
         return b.stargazers_count - a.stargazers_count;
@@ -39,11 +40,11 @@ function buildTopReposSection(repos, options = {}) {
     .slice(0, topN);
 
   if (picked.length === 0) {
-    return `### Top ${topN} by Stars\n\n_No public repositories found._`;
+    return "### Top Stars\n\n_No starred repositories found._";
   }
 
   const lines = [
-    `### Top ${topN} by Stars`,
+    "### Top Stars",
     "",
     "| Repository | Stars | Forks | Updated | Description |",
     "| --- | ---: | ---: | --- | --- |",
