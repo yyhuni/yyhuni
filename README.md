@@ -2,15 +2,25 @@
 
 # ░Y░Y░H░U░N░I░
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=50&lines=SYSTEM+BREACHED...;ACCESS+GRANTED.;Security+Researcher;Automation+Builder" alt="Typing SVG" />
+<picture>
+  <!-- 深色模式：荧光粉赛博打字流 -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=50&lines=SYSTEM+BREACHED...;ACCESS+GRANTED.;Security+Researcher;Automation+Builder">
+  <!-- 浅色模式：极简黑绿代码终端 -->
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=111111&center=true&vCenter=true&width=600&height=50&lines=Security+Researcher;Automation+Builder;Web+指纹识别+%7C+自动化安全工程">
+  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=111111&center=true&vCenter=true&width=600&height=50&lines=Security+Researcher;Automation+Builder">
+</picture>
 
 <a href="https://github.com/yyhuni">
-  <!-- 赛博朋克风奖杯墙 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=yyhuni&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="yyhuni trophies" />
+  <picture>
+    <!-- 深色模式奖杯：激进霓虹 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=yyhuni&theme=radical&margin-w=15">
+    <!-- 浅色模式奖杯：原像素风，融合白底 -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=yyhuni&theme=flat&margin-w=15">
+    <img alt="yyhuni trophies" src="https://github-profile-trophy.vercel.app/?username=yyhuni&theme=flat&margin-w=15">
+  </picture>
 </a>
 
-<br>
-<img src="https://komarev.com/ghpvc/?username=yyhuni&label=PROFILE+SCANS&color=00FFFF&style=for-the-badge" alt="Profile views" />
+<br><br>
 </div>
 
 ## 🖧 `$ sys.info`
@@ -23,13 +33,13 @@
 
 **[ DIRECTIVES ]**
 
-- `> ERROR 404: MANUAL_WORK_NOT_FOUND`
-- `> 先可用，再优雅` / `> 先自动化，再手工化` / `> 先结果，再形式`
+- `> 先可用，再优雅`
+- `> 先自动化，再手工化` / `> 先结果，再形式`
 
 ## ⚙️ `$ load modules`
 
 <p align="left">
-  <!-- 高对比霓虹色技术栈 -->
+  <!-- 统配深浅背景的微标 -->
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
@@ -41,10 +51,22 @@
 
 ## 📊 `$ wss://gh.api/telemetry`
 
-<!-- Radical 霓虹发光主题 -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhuni&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+  <picture>
+    <!-- 深色模式：暗黑 Tokyonight 面板 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
+    <!-- 浅色模式：原生浅色无边框面板 -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=333333&icon_color=000000">
+    <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=default&hide_border=true">
+  </picture>
+  
+  <picture>
+    <!-- 深色模式：暗黑 Tokyonight 语言图 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhuni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
+    <!-- 浅色模式：原生浅色不带黑背景 -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhuni&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=333333">
+    <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhuni&layout=compact&theme=default&hide_border=true">
+  </picture>
 </div>
 
 ## 🏆 `$ top-repos --sort stars`
@@ -62,8 +84,9 @@
 | [lunafox-sse-push](https://github.com/yyhuni/lunafox-sse-push) | 0 | 0 | 2026-02-05 | - |
 <!-- TOP_REPOS_END -->
 
-## � `$ exec snake.exe`
+## 🐍 `$ exec snake.exe`
 
+<!-- 贪吃蛇本身在 Action 里已经内置了 Dark 和 Light 两套 SVG！完美适配深浅模式 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yyhuni/yyhuni/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yyhuni/yyhuni/output/github-contribution-grid-snake.svg">
@@ -73,9 +96,9 @@
 ## 🔗 `$ links`
 
 <p align="left">
-  <a href="https://github.com/yyhuni"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FF00FF" /></a>
-  <a href="https://github.com/yyhuni/xingfinger"><img src="https://img.shields.io/badge/xingfinger-00FFFF?style=for-the-badge&logo=shield&logoColor=111111" /></a>
-  <a href="https://github.com/yyhuni/xingfinger/issues"><img src="https://img.shields.io/badge/Issues-FF0055?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/yyhuni"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/yyhuni/xingfinger"><img src="https://img.shields.io/badge/xingfinger-00ADD8?style=for-the-badge&logo=shield&logoColor=white" /></a>
+  <a href="https://github.com/yyhuni/xingfinger/issues"><img src="https://img.shields.io/badge/Issues-E34F26?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
