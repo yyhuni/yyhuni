@@ -14,16 +14,11 @@
 
 ### [!] THREAT_INTELLIGENCE: LOADED
 >
-> **[ CLASSIFIED ] 致力于把安全能力锻造成锋利、可复用的自动化武器。**
-
-**[ WEAPONS.SYS ]**
-
-- `▶` [**xingfinger**](https://github.com/yyhuni/xingfinger) -> 高性能 Web 指纹聚合识别引擎
-- `▶` [**xingrin**](https://github.com/yyhuni/xingrin) -> 资产管理与漏洞扫描自动化平台
+> **[ CLASSIFIED ] Dedicated to forging security capabilities into sharp, reusable automated weapons.**
 
 **[ DIRECTIVES ]**
 
-- `> 先可用，再优雅` / `> 先自动化，再手工化` / `> 先结果，再形式`
+- `> Make it work, then make it elegant` / `> Automate first, manual second` / `> Results over formalities`
 
 **[ MODULES ]**
 <p align="left">
@@ -36,9 +31,9 @@
 
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=radical&hide_border=false">
-    <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=yyhuni&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=yyhuni&show_icons=true&theme=radical&hide_border=false">
+    <img height="165" alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=yyhuni&show_icons=true&theme=radical&hide_border=true">
   </picture>
 </div>
 
