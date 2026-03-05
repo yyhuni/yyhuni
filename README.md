@@ -1,36 +1,41 @@
-```text
-$ whoami
-yyhuni
+<div align="center">
+  <!-- 动态终端打字效果，颜色为极客绿 -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=27F11D&center=true&vCenter=true&width=600&height=50&lines=Security+Researcher;Automation+Builder;Web+指纹识别+%7C+资产测绘工作流+%7C+自动化安全工程" alt="Typing SVG" />
+</div>
 
-$ role
-Security Researcher / Automation Builder
+## 📖 `$ cat profile.txt`
 
-$ focus --2026
-Web 指纹识别 | 资产测绘工作流 | 自动化安全工程
-```
+> **我是一个偏工程化的安全研究者，专注把安全能力做成可复用工具。**
 
-## `$ cat profile.txt`
+**🚩 [ flagship ]**
 
-```text
-[about]
-我是一个偏工程化的安全研究者，专注把安全能力做成可复用工具。
+- [**xingfinger**](https://github.com/yyhuni/xingfinger) -> 高性能 Web 指纹识别工具
 
-[flagship]
-xingfinger -> 高性能 Web 指纹识别工具
+**💡 [ principles ]**
 
-[principles]
-- 先可用，再优雅
-- 先自动化，再手工化
-- 先结果，再形式
-```
+- `> 先可用，再优雅`
+- `> 先自动化，再手工化`
+- `> 先结果，再形式`
 
-## `$ ls tech-stack`
+## 🛠 `$ ls tech-stack/`
 
-```text
-go  typescript  vue  react  docker  postgresql  redis
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-## `$ top-repos --sort stars --owner yyhuni`
+## 📊 `$ status --now`
+
+- 🎯 深化 **xingfinger** 的规则覆盖与匹配精度
+- 🚀 优化扫描性能与结果可读性
+- 📦 沉淀可复用的安全自动化工程实践
+
+## 🏆 `$ top-repos --sort stars --owner yyhuni`
 
 <!-- TOP_REPOS_START -->
 ### Top 6 by Stars
@@ -45,22 +50,33 @@ go  typescript  vue  react  docker  postgresql  redis
 | [lunafox-sse-push](https://github.com/yyhuni/lunafox-sse-push) | 0 | 0 | 2026-02-05 | - |
 <!-- TOP_REPOS_END -->
 
-## `$ status --now`
+## 📈 `$ gh api user/stats`
 
-```text
-- 深化 xingfinger 的规则覆盖与匹配精度
-- 优化扫描性能与结果可读性
-- 沉淀可复用的安全自动化工程实践
-```
+<div align="left">
+  <!-- GitHub 统计模块：使用 tokyonight 暗黑主题保持极客感 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhuni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+</div>
 
-## `$ links`
+## 🐍 `$ curl -s https://github.com/yyhuni/contribution-snake`
 
-```text
-GitHub: https://github.com/yyhuni
-Project: https://github.com/yyhuni/xingfinger
-Issues:  https://github.com/yyhuni/xingfinger/issues
-```
+<!-- 贪吃蛇动画：根据 GitHub 贡献图自动生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yyhuni/yyhuni/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yyhuni/yyhuni/output/github-contribution-grid-snake.svg">
+  <!-- 默认备用显示 -->
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yyhuni/yyhuni/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
-```text
-Built for signal, speed, and security.
-```
+## 🔗 `$ links`
+
+<p align="left">
+  <a href="https://github.com/yyhuni"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/yyhuni/xingfinger"><img src="https://img.shields.io/badge/xingfinger-27F11D?style=for-the-badge&logo=shield&logoColor=white" /></a>
+  <a href="https://github.com/yyhuni/xingfinger/issues"><img src="https://img.shields.io/badge/Issues-E34F26?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+<div align="center">
+  <code>Built for signal, speed, and security.</code>
+</div>
