@@ -1,6 +1,13 @@
 name: Update Top Repos by Stars
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - .github/scripts/update-top-repos.js
+      - .github/workflows/update-top-repos.yml
   workflow_dispatch:
   schedule:
     - cron: "17 2 * * *"
@@ -10,6 +17,7 @@ permissions:
 
 jobs:
   update-readme:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
