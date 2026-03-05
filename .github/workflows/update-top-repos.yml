@@ -33,6 +33,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_USERNAME: yyhuni
           TOP_REPOS_LIMIT: "6"
+          MAINTAINED_REPOS: "xingfinger"
         run: node .github/scripts/update-top-repos.js
 
       - name: Commit and push if changed

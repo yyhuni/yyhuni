@@ -23,10 +23,13 @@ function formatDate(dateText) {
 function buildTopReposSection(repos, options = {}) {
   const username = options.username || "";
   const topN = Number(options.topN || 6);
+  const includeRepos = new Set((options.includeRepos || []).map((name) => String(name).toLowerCase()));
+  const useIncludeRepos = includeRepos.size > 0;
 
   const picked = repos
     .filter((repo) => !repo.fork && !repo.archived && !repo.private)
     .filter((repo) => String(repo.name).toLowerCase() !== String(username).toLowerCase())
+    .filter((repo) => !useIncludeRepos || includeRepos.has(String(repo.name).toLowerCase()))
     .sort((a, b) => {
       if (b.stargazers_count !== a.stargazers_count) {
         return b.stargazers_count - a.stargazers_count;
@@ -105,10 +108,14 @@ async function main() {
   const readmePath = path.resolve(process.cwd(), process.env.README_PATH || "README.md");
   const topN = Number(process.env.TOP_REPOS_LIMIT || 6);
   const token = process.env.GITHUB_TOKEN;
+  const includeRepos = String(process.env.MAINTAINED_REPOS || "")
+    .split(",")
+    .map((name) => name.trim())
+    .filter(Boolean);
 
   const readmeContent = fs.readFileSync(readmePath, "utf8");
   const repos = await fetchUserRepos(username, token);
-  const section = buildTopReposSection(repos, { username, topN });
+  const section = buildTopReposSection(repos, { username, topN, includeRepos });
   const updatedReadme = replaceTopReposSection(readmeContent, section);
 
   if (updatedReadme !== readmeContent) {

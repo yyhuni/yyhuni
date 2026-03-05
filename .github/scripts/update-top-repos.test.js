@@ -61,3 +61,35 @@ test("replaceTopReposSection 只替换标记区间", () => {
   assert.doesNotMatch(after, /old content/);
   assert.match(after, /tail/);
 });
+
+test("buildTopReposSection 支持只展示维护中的仓库白名单", () => {
+  const repos = [
+    {
+      name: "legacy-repo",
+      html_url: "https://github.com/yyhuni/legacy-repo",
+      description: "legacy",
+      stargazers_count: 999,
+      forks_count: 0,
+      fork: false,
+      updated_at: "2026-03-01T00:00:00Z",
+    },
+    {
+      name: "xingfinger",
+      html_url: "https://github.com/yyhuni/xingfinger",
+      description: "maintained",
+      stargazers_count: 31,
+      forks_count: 3,
+      fork: false,
+      updated_at: "2026-03-04T00:00:00Z",
+    },
+  ];
+
+  const section = buildTopReposSection(repos, {
+    username: "yyhuni",
+    topN: 6,
+    includeRepos: ["xingfinger"],
+  });
+
+  assert.match(section, /xingfinger/);
+  assert.doesNotMatch(section, /legacy-repo/);
+});
