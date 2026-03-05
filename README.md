@@ -2,22 +2,11 @@
 
 # ░Y░Y░H░U░N░I░
 
-<picture>
-  <!-- 深色模式：荧光粉赛博打字流 -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=50&lines=SYSTEM+BREACHED...;ACCESS+GRANTED.;Security+Researcher;Automation+Builder">
-  <!-- 浅色模式：极简黑绿代码终端 -->
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=111111&center=true&vCenter=true&width=600&height=50&lines=Security+Researcher;Automation+Builder;Web+指纹识别+%7C+自动化安全工程">
-  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=111111&center=true&vCenter=true&width=600&height=50&lines=Security+Researcher;Automation+Builder">
-</picture>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=27F11D&center=true&vCenter=true&width=600&height=50&lines=Security+Researcher;Automation+Builder;Web+指纹识别+%7C+资产测绘工作流+%7C+自动化安全工程" alt="Typing SVG" />
 
 <a href="https://github.com/yyhuni">
-  <picture>
-    <!-- 深色模式奖杯：激进霓虹 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=yyhuni&theme=radical&margin-w=15">
-    <!-- 浅色模式奖杯：原像素风，融合白底 -->
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=yyhuni&theme=flat&margin-w=15">
-    <img alt="yyhuni trophies" src="https://github-profile-trophy.vercel.app/?username=yyhuni&theme=flat&margin-w=15">
-  </picture>
+  <!-- 强制极客黑框风格的奖杯 -->
+  <img src="https://github-profile-trophy.vercel.app/?username=yyhuni&theme=onestar&no-bg=true&margin-w=15" alt="yyhuni trophies" />
 </a>
 
 <br><br>
@@ -39,34 +28,22 @@
 ## ⚙️ `$ load modules`
 
 <p align="left">
-  <!-- 统配深浅背景的微标 -->
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <!-- 统一带黑底底色的微标 -->
+  <img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Vue.js-111111?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2CA5E0" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=316192" />
+  <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=DC382D" />
 </p>
 
 ## 📊 `$ wss://gh.api/telemetry`
 
 <div align="left">
-  <picture>
-    <!-- 深色模式：暗黑 Tokyonight 面板 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
-    <!-- 浅色模式：原生浅色无边框面板 -->
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=333333&icon_color=000000">
-    <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=default&hide_border=true">
-  </picture>
-  
-  <picture>
-    <!-- 深色模式：暗黑 Tokyonight 语言图 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhuni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
-    <!-- 浅色模式：原生浅色不带黑背景 -->
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhuni&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=333333">
-    <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhuni&layout=compact&theme=default&hide_border=true">
-  </picture>
+  <!-- 强制强制暗黑主题，并带有明显边框与底色以隔绝白底 -->
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yyhuni&show_icons=true&theme=onedark&hide_border=false&bg_color=0D1117">
+  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhuni&layout=compact&theme=onedark&hide_border=false&bg_color=0D1117">
 </div>
 
 ## 🏆 `$ top-repos --sort stars`
@@ -86,19 +63,17 @@
 
 ## 🐍 `$ exec snake.exe`
 
-<!-- 贪吃蛇本身在 Action 里已经内置了 Dark 和 Light 两套 SVG！完美适配深浅模式 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yyhuni/yyhuni/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yyhuni/yyhuni/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yyhuni/yyhuni/output/github-contribution-grid-snake.svg" width="100%">
+  <!-- 强制要求优先加载深色贪吃蛇动图 -->
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yyhuni/yyhuni/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
 ## 🔗 `$ links`
 
 <p align="left">
-  <a href="https://github.com/yyhuni"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/yyhuni/xingfinger"><img src="https://img.shields.io/badge/xingfinger-00ADD8?style=for-the-badge&logo=shield&logoColor=white" /></a>
-  <a href="https://github.com/yyhuni/xingfinger/issues"><img src="https://img.shields.io/badge/Issues-E34F26?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/yyhuni"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/yyhuni/xingfinger"><img src="https://img.shields.io/badge/xingfinger-111111?style=for-the-badge&logo=shield&logoColor=27F11D" /></a>
+  <a href="https://github.com/yyhuni/xingfinger/issues"><img src="https://img.shields.io/badge/Issues-111111?style=for-the-badge&logo=github&logoColor=E34F26" /></a>
 </p>
 
 ---
