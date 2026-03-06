@@ -43,10 +43,11 @@
 
 | Repository | Stars | Forks | Updated | Description |
 | --- | ---: | ---: | --- | --- |
-| [xingrin](https://github.com/yyhuni/xingrin) | 457 | 65 | 2026-03-05 | src资产管理漏洞扫描平台，子域名爆破，端口扫描，站点发现，目录扫描，爬虫，漏洞扫描 |
+| [xingrin](https://github.com/yyhuni/xingrin) | 464 | 65 | 2026-03-06 | src资产管理漏洞扫描平台，子域名爆破，端口扫描，站点发现，目录扫描，爬虫，漏洞扫描 |
 | [shiroMemshell](https://github.com/yyhuni/shiroMemshell) | 37 | 12 | 2025-11-26 | 利用shiro反序列化注入冰蝎内存马 |
-| [xingfinger](https://github.com/yyhuni/xingfinger) | 31 | 3 | 2026-03-04 | XingFinger 是一款高效的 Web 指纹识别工具，基于 chainreactors/fingers 多指纹库聚合引擎，帮助安全人员快速识别目标系统的技术栈。 |
-| [fingerprint-files](https://github.com/yyhuni/fingerprint-files) | 9 | 3 | 2026-03-04 | - |
+| [xingfinger](https://github.com/yyhuni/xingfinger) | 32 | 3 | 2026-03-06 | XingFinger 是一款高效的 Web 指纹识别工具，基于 chainreactors/fingers 多指纹库聚合引擎，帮助安全人员快速识别目标系统的技术栈。 |
+| [fingerprint-files](https://github.com/yyhuni/fingerprint-files) | 10 | 4 | 2026-03-05 | - |
+| [lunafox](https://github.com/yyhuni/lunafox) | 1 | 1 | 2026-03-05 | - |
 <!-- TOP_REPOS_END -->
 
 ### [!] GRID_INFILTRATION: ACTIVE
