@@ -1,12 +1,6 @@
 <div align="center">
 
-# ⚡ SYSTEM BREACHED // yyhuni ⚡
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=FF0055&center=true&vCenter=true&width=600&height=50&lines=WARNING:+UNAUTHORIZED+ACCESS;Security+Researcher;Automation+Builder">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=D90429&center=true&vCenter=true&width=600&height=50&lines=WARNING:+UNAUTHORIZED+ACCESS;Security+Researcher;Automation+Builder">
-  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=FF0055&center=true&vCenter=true&width=600&height=50&lines=WARNING:+UNAUTHORIZED+ACCESS">
-</picture>
+<img src="assets/readme/alert-console.gif" alt="Alert Console Banner" width="100%" />
 
 <img src="https://komarev.com/ghpvc/?username=yyhuni&label=THREAT+SCANS&color=FF0055&style=for-the-badge" alt="Profile views" />
 
@@ -14,11 +8,13 @@
 
 ### [!] THREAT_INTELLIGENCE: LOADED
 >
-> **[ CLASSIFIED ] Dedicated to forging security capabilities into sharp, reusable automated weapons.**
+> **[ PROFILE ] OFFENSIVE SECURITY RESEARCHER // AUTOMATION BUILDER**
+>
+> `Weaponizing repeatable workflows into sharp, reusable offensive tooling.`
 
 **[ DIRECTIVES ]**
 
-- `> Make it work, then make it elegant` / `> Automate first, manual second` / `> Results over formalities`
+- `> Recon first, execution second` / `> Automate first, manual second` / `> Signal over noise`
 
 **[ MODULES ]**
 <p align="left">
