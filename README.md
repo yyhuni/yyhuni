@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="assets/readme/alert-console.gif" alt="Alert Console Banner" width="100%" />
+<img src="assets/readme/alert-console.gif" alt="SYSTEM BREACHED // yyhuni alert console banner" width="100%" />
+
+# SYSTEM BREACHED // yyhuni
 
 <img src="https://komarev.com/ghpvc/?username=yyhuni&label=THREAT+SCANS&color=FF0055&style=for-the-badge" alt="Profile views" />
 
 </div>
 
-### [!] THREAT_INTELLIGENCE: LOADED
+### [!] THREAT PROFILE
 >
 > **[ PROFILE ] OFFENSIVE SECURITY RESEARCHER // AUTOMATION BUILDER**
 >
 > `Weaponizing repeatable workflows into sharp, reusable offensive tooling.`
 
-**[ DIRECTIVES ]**
+`> Recon first, execution second` / `> Automate first, manual second` / `> Signal over noise`
 
-- `> Recon first, execution second` / `> Automate first, manual second` / `> Signal over noise`
-
-**[ MODULES ]**
+### [!] ACTIVE MODULES
 <p align="left">
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### [!] TELEMETRY_DATA: ONLINE
+### [!] TELEMETRY
 
 <div align="left">
   <picture>
@@ -33,7 +33,7 @@
   </picture>
 </div>
 
-### [!] TOP_TARGETS_ACQUIRED
+### [!] TARGET INVENTORY
 <!-- TOP_REPOS_START -->
 ### Top 6 by Stars
 
@@ -47,10 +47,12 @@
 | [lunafox-sse-push](https://github.com/yyhuni/lunafox-sse-push) | 0 | 0 | 2026-02-05 | - |
 <!-- TOP_REPOS_END -->
 
-### [!] GRID_INFILTRATION: ACTIVE
+### [!] OPERATION STATUS
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yyhuni/yyhuni/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yyhuni/yyhuni/output/github-contribution-grid-snake.svg">
   <img alt="snake" src="https://raw.githubusercontent.com/yyhuni/yyhuni/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+
+`NOISE IS CHEAP. SIGNAL WINS.`
