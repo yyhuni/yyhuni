@@ -43,7 +43,7 @@
 
 | Repository | Stars | Forks | Updated | Description |
 | --- | ---: | ---: | --- | --- |
-| [xingrin](https://github.com/yyhuni/xingrin) | 508 | 70 | 2026-03-30 | Open-source attack surface management and authorized security automation platform for asset discovery, service probing, scan orchestration, and security result management. |
+| [xingrin](https://github.com/yyhuni/xingrin) | 507 | 71 | 2026-04-01 | Open-source attack surface management and authorized security automation platform for asset discovery, service probing, scan orchestration, and security result management. |
 | [shiroMemshell](https://github.com/yyhuni/shiroMemshell) | 37 | 12 | 2025-11-26 | 利用shiro反序列化注入冰蝎内存马 |
 | [xingfinger](https://github.com/yyhuni/xingfinger) | 35 | 5 | 2026-03-26 | XingFinger 是一款高效的 Web 指纹识别工具，基于 chainreactors/fingers 多指纹库聚合引擎，帮助安全人员快速识别目标系统的技术栈。 |
 | [fingerprint-files](https://github.com/yyhuni/fingerprint-files) | 10 | 4 | 2026-03-05 | - |
