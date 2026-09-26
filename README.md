@@ -46,7 +46,7 @@
 | [xingrin](https://github.com/yyhuni/xingrin) | 656 | 92 | 2026-09-24 | Open-source attack surface management and authorized security automation platform for asset discovery, service probing, scan orchestration, and security result management. |
 | [xingfinger](https://github.com/yyhuni/xingfinger) | 60 | 8 | 2026-09-17 | XingFinger 是一款高效的 Web 指纹识别工具，基于 chainreactors/fingers 多指纹库聚合引擎，帮助安全人员快速识别目标系统的技术栈。 |
 | [shiroMemshell](https://github.com/yyhuni/shiroMemshell) | 37 | 12 | 2025-11-26 | 利用shiro反序列化注入冰蝎内存马 |
-| [lunafox](https://github.com/yyhuni/lunafox) | 27 | 4 | 2026-09-24 | lunafox test |
+| [lunafox](https://github.com/yyhuni/lunafox) | 27 | 4 | 2026-09-25 | lunafox test |
 | [fingerprint-files](https://github.com/yyhuni/fingerprint-files) | 17 | 5 | 2026-09-17 | - |
 | [lunafox-sse-push](https://github.com/yyhuni/lunafox-sse-push) | 1 | 0 | 2026-03-13 | - |
 <!-- TOP_REPOS_END -->
